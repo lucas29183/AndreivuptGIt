@@ -1,0 +1,1 @@
+const word = "aqui vamos construir nossa API";
